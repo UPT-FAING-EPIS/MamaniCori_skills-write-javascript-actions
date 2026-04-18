@@ -38,3 +38,5 @@ Thumbs.db
 
 # Add Node modules below #
 ################
+
+node_modules/
